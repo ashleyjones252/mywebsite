@@ -83,7 +83,7 @@ In terms of interests, I am interested in pursuing a career in the business fiel
   <div class="column">
 - Resume: **[Ashley Jones](https://github.com/ashleyjones252/practicewebsite/blob/main/Jones_Ashley_Resume.pdf)**
 
-- Facts: **[Just For Fun!](https://docs.google.com/document/d/1H2Wt9VQUUWMDehINd3Iz7aCPPvXNUbmBjO-L_vqhz6U/edit?usp=sharing)**
+- Facts: **[Just For Fun Silly Things!](https://github.com/ashleyjones252/mywebsite/blob/main/Random_Fun_Facts.pdf)**
 
 - References:
     - Brooke Cottrell
