@@ -70,59 +70,55 @@ background-color: #13294B;
 
 </style>
 
-# **Overview** {.tabset}
+# *Hello!* {.tabset}
 
-Hello! My name is Ashley Jones and I am a current - soon to be graduate - of the University of North Carolina at Chapel Hill. On this website, I will store past projects that I still have access to and information about myself; resumes, fun facts, you name it.
+My name is Ashley Jones and I am a current - soon to be graduate - of the University of North Carolina at Chapel Hill. On this website, I will store past projects that I still have access to and information about myself; resumes, fun facts, you name it.
 
 In terms of interests, I am interested in pursuing a career in the business field. I am open to ideas, but I would prefer communicating with individuals on a regular basis, whether that be co-workers or customers. Some companies that appeal to me include Newell Brands, JELD-WEN, Stanley Black & Decker, Britax, and Lowe's Corporate.
 
 
 
+# *Important Things* {.tabset}
 <div class="row">
   <div class="column">
-
-- Resume: **[Ashley Jones](https://github.com/ashleyjones252/practicewebsite/blob/main/Jones_Ashley_Resume.pdf**
+- Resume: **[Ashley Jones](https://github.com/ashleyjones252/practicewebsite/blob/main/Jones_Ashley_Resume.pdf)**
 
 - Facts: **[Just For Fun!](https://docs.google.com/document/d/1H2Wt9VQUUWMDehINd3Iz7aCPPvXNUbmBjO-L_vqhz6U/edit?usp=sharing)**
 
 - References: **[Michelle Staten]**
-
-  </div>
+  
+- Contact Information:
+    - Email: ashleyjones4444@gmail.com
+    - Phone: (252) 489-3288 
+  </div>  
   <div class="column">
-  <img src="UNC_Logo.png" width="140px" height="auto">
+  <img src="UNC_Logo.png" width="170px" height="150px">
   </div>
 </div> 
 
-- Contact Information: 
-    - Email: ashleyjones4444@gmail.com
-    - Phone: (252) 489-3288 
+# *Projects* {.tabset}
 
-# **Projects** {.tabset}
+For reference, I have made available several projects that I was a part of. All were completed senior year in a team setting (through Zoom). Projects will be updated as they become available.
 
-## Most Recent
+## Economics
 
-- Smashing the Competition: Gameplay Analysis [Report](https://github.com/ashleyjones252/STOR538/blob/main/PlayoffsSMASH.pdf) | [Data](https://github.com/ashleyjones252/STOR538/blob/main/PlayoffsRound1SMASHdata.xlsx)
+- [Female Labor Force Participation on GDP per Capita in Latin America and the Caribbean](https://github.com/ashleyjones252/practicewebsite/blob/main/590_MacroGroup.pdf)
 
-- Female Labor Force Participation on GDP per Capita in Latin America and the Caribbean [Report](https://github.com/ashleyjones252/practicewebsite/blob/main/590_MacroGroup.pdf)
+- Russian Micro Research: Fertility (TBD)
 
-- Russian Micro Project (TBD)
+## Statistics
 
-- Forcasting Game Wins: Basketball (TBD)
+- [Smashing the Competition: Gameplay Analysis](https://github.com/ashleyjones252/STOR538/blob/main/PlayoffsSMASH.pdf)
+    - [Data](https://github.com/ashleyjones252/STOR538/blob/main/PlayoffsRound1SMASHdata.xlsx)
+
+- Forecasting Basketball Game Wins (TBD)
 
 
 
-<div class="row">
-  <div class="column">
--------
+# *Ending Notes* {.tabset}
 
->You're braver than you believe, and stronger than you seem, and smarter than you think.
->
->
-> ~ _A.A. Mine_
+Thank you for taking the time to look at this website and or taking the time to talk with me. I look forward to starting my career and continuing my education through experience and the knowledge others pass on to me.
 
--------
-
--------
 
 >In every day, there are 1,440 minutes. That means we have 1,440 daily opportunities to make a positive impact. 
 >
@@ -130,8 +126,6 @@ In terms of interests, I am interested in pursuing a career in the business fiel
 > ~ _Les Brown_
 
 -------
-  </div>
-  <div class="column">
-  <img src="UNC_Logo.png" width="140px" height="auto">
-  </div>
-</div> 
+
+This page was last updated on `r Sys.time()` Eastern Time by Ashley Jones.
+
