@@ -76,7 +76,7 @@ My name is Ashley Jones and I am a current - soon to be graduate - of the Univer
 
 In terms of interests, I am interested in pursuing a career in the business field. I am open to ideas, but I would prefer communicating with individuals on a regular basis, whether that be co-workers or customers. Some companies that appeal to me include Newell Brands, JELD-WEN, Stanley Black & Decker, Britax, and Lowe's Corporate.
 
-
+ 
 
 # *Important Things* {.tabset}
 <div class="row">
