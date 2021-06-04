@@ -72,10 +72,9 @@ background-color: #13294B;
 
 # *Hello!* {.tabset}
 
-My name is Ashley Jones and I am a current - soon to be graduate - of the University of North Carolina at Chapel Hill. On this website, I will store past projects that I still have access to and information about myself; resumes, fun facts, you name it!
+My name is Ashley Jones and I have recently graduated from the University of North Carolina at Chapel Hill. On this website, I will store past projects that I still have access to and information about myself; resumes, fun facts, you name it!
 
-In terms of my interests, I am looking to pursue a career in the business field. This is very broad and vague, but I enjoy trying new things and do not wish to keep myself from possible opportunities that I may not be currently familiar with. I hope to embark upon a career that involves communicating with individuals on a regular basis, whether that be co-workers, customers, and or clients. Wherever I find myself in the future, I aspire to learn the position and excel, leaving a lasting impact.
-
+In terms of my interests, I am looking to pursue a career in the business field; sales, marketing, management, and so forth have all peaked my curiosity. This list is very broad, but I enjoy trying new things and do not wish to keep myself from possible opportunities that I may not be currently familiar with. I hope to embark upon a career that involves communicating with individuals on a regular basis, whether that be co-workers, customers, and or clients. Wherever I find myself in the future, I aspire to learn the position and excel, leaving a lasting impact.
  
 
 # *Important Things* {.tabset}
